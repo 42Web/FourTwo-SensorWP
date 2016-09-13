@@ -1,2 +1,2 @@
-# FourTwo-WP-Webmaster
-A WordPress plugin to manage your WordPress install(s).
+# FourTwo-SensorWP
+A WordPress plugin to help manage your WordPress installs.
